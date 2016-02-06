@@ -1,0 +1,77 @@
+- 
+  group: 'General sponsor'
+  elements: 
+    - {name: 'Google', description: 'Google', link: 'https://www.google.com.ua/intl/en/about/', imageUrl: 'google.svg'}
+- 
+  group: 'Diamond sponsors'
+  elements: 
+    - {name: 'Eleks', description: 'Software development, Localization, Internationalization, QA and Testing Services', link: 'http://eleks.com/', imageUrl: 'eleks.svg'}
+    - {name: 'SoftServe', description: 'SoftServe – Best IT Employer', link: 'https://softserve.ua/en/', imageUrl: 'softserve.svg', width: '210px'}
+- 
+  group: 'Platinum sponsors'
+  elements: 
+    - {name: 'DataArt', description: 'DataArt is a custom software development company that builds advanced solutions for the financial services, healthcare, hospitality, logistics and other industries.', link: 'http://www.dataart.com/', imageUrl: 'dataart.svg'}
+    - {name: 'GlobalLogic', description: 'GlobalLogic is a full product lifecycle services provider that helps customers make amazing products, discover new revenue opportunities, and accelerate time-to-market.', link: 'http://www.globallogic.com/', imageUrl: 'global-logic.svg', width: '210px'}
+- 
+  group: 'Gold sponsors'
+  elements: 
+    - {name: 'Lemberg', description: 'Lemberg Solutions - Web and Mobile App Development Company', link: 'http://lemberg.co.uk/', imageUrl: 'lemberg.svg', width: '140px'}
+    - {name: 'coMMuna', description: 'coMMuna- це простір для втілення твоїх можливостей, правильно організований для роботи, навчання та відпочинку.', link: 'http://communa.net.ua/en/', imageUrl: 'communa.png'}
+- 
+  group: 'Hackathon sponsors'
+  elements: 
+    - {name: 'Lohika', description: 'A trusted partner in software development', link: 'http://www.lohika.com/', imageUrl: 'lohika.svg', width: '140px'}
+    - {name: 'GitHub', description: 'GitHub is the best place to build software together. Over 4 million people use GitHub to share code.', link: 'https://github.com/', imageUrl: 'github.svg'}
+    - {name: 'Come In', description: 'Ми – новий формат!Ми – нова концепція кафе!Ми – соціальна мережа у реальному світі.', link: 'http://www.comein.lviv.ua/', imageUrl: 'comein.png'}
+- 
+  group: 'General partner'
+  elements: 
+    - {name: 'IT-BPO', description: 'IT-BPO Lviv Cluster', link: 'http://it-bpo.lviv.ua/', imageUrl: 'it-bpo.png'}
+- 
+  group: 'Hosting partners'
+  elements: 
+    - {name: 'Astoria', description: 'Готель Асторія персонально твій', link: 'http://astoriahotel.ua/en', imageUrl: 'astoria.png', width: '140px'}
+    - {name: 'Dnister', description: 'Dnister Premium Hotel Lviv - combining comfort with genuine service.', link: 'http://www.dnister.lviv.ua/', imageUrl: 'dnister.png', width: '140px'}
+- 
+  group: 'Party partner'
+  elements: 
+    - {name: 'Nravo', description: 'Nravo is a global company that develops and publishes games for mobile devices of all generations. Our products encompass browser mobile games – MMORPGs that won popularity in many Eastern European countries, games for iOS and Android', link: 'http://nravo.com/', imageUrl: 'nravo.svg', width: '110px'}
+- 
+  group: 'Production partner'
+  elements: 
+    - {name: 'and action', description: 'and action - Photo and video production locating in Lviv Ukraine', link: 'http://and-action.net/', imageUrl: 'and-action.png'}
+- 
+  group: 'Print partner'
+  elements: 
+    - {name: 'TCompany', description: 'Стильний і практичний одяг від офіційного представника Fruit of the Loom і Russel в Україні. У нас найкращі ціни, широкий вибір товарів. Замовляйте прямо зараз!', link: 'http://tcomp.com.ua/', imageUrl: 't-company.png', width: '120px'}
+- 
+  group: 'With support of'
+  elements: 
+    - {name: 'Lviv Convention Bureau', description: 'Lviv Convention Bureau - Business tourism in Lviv, Ukraine', link: 'http://lvivconvention.com.ua/', imageUrl: 'lvivconventionbureau.svg'}
+- 
+  group: 'General media partner'
+  elements: 
+    - {name: 'DOU', description: 'DOU - Сообщество программистов', link: 'http://dou.ua/', imageUrl: 'dou.svg'}
+- 
+  group: 'Information partners'
+  elements: 
+    - {name: 'career4it', description: 'career4it - employment fair for it talents', link: 'http://career4it.com/en/', imageUrl: 'career4it.png'}
+    - {name: 'IT Arena', description: 'IT Arena - the biggest IT conference in western Ukraine', link: 'http://itarena.lviv.ua/', imageUrl: 'it-arena.svg'}
+    - {name: 'Startup Depot', description: 'Startup Depot - Lviv Business Incubator', link: 'http://innovateinlviv.com/', imageUrl: 'startup-depot.svg'}
+    - {name: 'Betaplace', description: 'Betaplace – Coworking center in Lviv', link: 'http://betaplace.com.ua/', imageUrl: 'betaplace.svg'}
+    - {name: 'MCE 2015', description: 'MCE – The mobile technology conference created by developers and designers', link: 'http://mceconf.com/', imageUrl: 'mce.svg'}
+    - {name: 'Inspired', description: 'Inspired - це джерело вашого натхнення. Найкращі фотографії, цитати та відео з усього інтернету', link: 'http://inspired.com.ua/', imageUrl: 'inspired.svg'}
+    - {name: 'Mobile Warsaw', description: 'Mobile Warsaw is a community of mobile programmers. We organize regular meetings, where mobile developers talk to mobile developers about their experiences', link: 'http://mobile-warsaw.pl/', imageUrl: 'mobile-warsaw.svg'}
+    - {name: 'Be-sparkle', description: 'BE-SPARKLE - це джерело новин, ідей та історій успіху натхненних сферами кіно, реклами, технологій та стартапів. Основна ціль - збільшення кількості діячів цих галузей, шляхом надання їм оптимізму та знань, яких інколи так не вистачає для здійснення рішучого кроку', link: 'http://be-sparkle.com/', imageUrl: 'be-sparkle.png'}
+    - {name: 'Uzhhorod-IT', description: 'Uzhhorod-IT - група для спілкування студентів та спеціалістів задіяних у сфері інформаційних технологій', link: 'https://www.facebook.com/groups/uzhitc/', imageUrl: 'uzhhorod-it.svg'}
+    - {name: 'Md-Eksperiment', description: 'Фестивали, Дорогие друзья, представляем список фестивалей-партнеров Международного культурного портала Эксперимент. Для вашего удобства мы решили собрать их вместе. Количество постоянно увеличивается. Можно заказать,купить билеты на фестиваль', link: 'http://md-eksperiment.org/page.php?menu_id=3', imageUrl: 'md-eksperiment.png'}
+    - {name: 'ІТ у нашому селі', description: 'Itvillage is a media project, which mission is in covering an intersection of technology, business and culture', link: 'http://itvillage.in.ua/', imageUrl: 'ituseli.svg'}
+    - {name: 'AppClub { build, monetize }', description: 'AppClub - профессиональный клуб мобильных разработчиков и стартапов', link: 'http://appclub.im/', imageUrl: 'appclub.svg'}
+    - {name: 'Mobiconf', description: 'Mobiconf - Experience the World of Mobile Development', link: 'http://www.mobiconf.org/', imageUrl: 'mobiconf.svg'}
+    - {name: 'Symphony Solutions', description: 'Symphony Solutions - Software development tailored to your needs!', link: 'http://www.symphony-solutions.eu/', imageUrl: 'symphony-solutions.png'}
+    - {name: 'ITEM-2014', description: 'IT-конференция, посвященная трендам в разработке программных продуктов и управления IT-проектами.', link: 'http://item.dp.ua/en/', imageUrl: 'item.svg'}
+    - {name: 'Django Girls', description: 'Django Girls is a one-day workshop about programming in Python and Django tailored for women.', link: 'http://djangogirls.org/lviv', imageUrl: 'django-girls.svg'}
+    - {name: 'Root Nation', description: 'Root Nation - сайт о гаджетах и технологиях. Android, iOS, Windows. Обзоры: смартфоны, планшеты, ноутбуки, ПК. Операционные системы, софт, сервисы и ПО.', link: 'http://root-nation.com/', imageUrl: 'root-nation.svg', width: '80px'}
+    - {name: 'Innabtys', description: 'Innabtys — цифровые проекты, интернет-маркетинг, право. Прикладные исследования и работа с веб-проектами, новыми сферами современной экономики.', link: 'http://innabtys.com/', imageUrl: 'innabtys.png', width: '140px'}
+    - {name: 'Garage48', description: 'Garage48 - from an idea to prototype within 48 hours', link: 'http://garage48.org/lviv', imageUrl: 'garage48.png'}
+    - {name: 'IT Weekend', description: 'IT Weekend', link: 'https://softserve.ua', imageUrl: 'it-weekend.svg', width: '140px'}

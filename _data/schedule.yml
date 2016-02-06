@@ -1,0 +1,155 @@
+- 
+  date: "2014-10-24"
+  dateReadable: 'October 24 - Hackday'
+  parallelCount: 2
+  tracks: 
+    - {parallel: 1, title: "Hackathon", color: "#673ab7"}
+    - {parallel: 2, title: "Workshops", color: "#ff9800"}
+  timeslots:
+    - {
+        parallel: 1,
+        startTime: "10:00",
+        endTime: "11:00",
+        sessionIds: [600]
+    }
+    - {
+        parallel: 1,
+        startTime: "11:00",
+        endTime: "13:00",
+        sessionIds: [601]
+    }
+    - {
+        parallel: 1,
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [602]
+    }
+    - {
+        parallel: 1,
+        startTime: "14:00",
+        endTime: "18:00",
+        sessionIds: [603]
+    }
+    - {
+        parallel: 1,
+        startTime: "18:00",
+        endTime: "19:00",
+        sessionIds: [604]
+    }
+    - {
+        parallel: 2,
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [701]
+    }
+    - {
+        parallel: 2,
+        startTime: "13:00",
+        endTime: "15:00",
+        sessionIds: [700]
+    }
+    - {
+        parallel: 2,
+        startTime: "16:00",
+        endTime: "18:00",
+        sessionIds: [703]
+    }
+- 
+  date: "2014-10-25"
+  dateReadable: 'October 25 - Conference'
+  parallelCount: 1
+  tracks: 
+    - {parallel: 1, title: "Android", color: "#90be4e"}
+    - {parallel: 1, title: "Web & Cloud", color: "#03a9f4"}
+    - {parallel: 1, title: "Community", color: "#e91e63"}
+  timeslots:
+    - {
+        parallel: 1,
+    	startTime: "08:30",
+    	endTime: "09:20",
+    	sessionIds: [212]
+    }
+    - {
+        parallel: 1,
+        startTime: "09:30",
+        endTime: "10:20",
+        sessionIds: [115]
+    }
+    - {
+        parallel: 1,
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [102,114,125]
+    }
+    - {
+        parallel: 1,
+        startTime: "11:10",
+        endTime: "11:40",
+        sessionIds: [104,110,126]
+    }
+    - {
+        parallel: 1,
+        startTime: "11:50",
+        endTime: "12:20",
+        sessionIds: [106,109,118]
+    }
+    - {
+        parallel: 1,
+        startTime: "12:30",
+        endTime: "13:50",
+        sessionIds: [503]
+    }
+    - {
+        parallel: 1,
+        startTime: "14:00",
+        endTime: "14:30",
+        sessionIds: [123,116,122]
+    }
+    - {
+        parallel: 1,
+        startTime: "14:40",
+        endTime: "15:10",
+        sessionIds: [105,129,128~119]
+    }
+    - {
+        parallel: 1,
+        startTime: "15:20",
+        endTime: "15:50",
+        sessionIds: [103,111,112]
+    }
+    - {
+        parallel: 1,
+        startTime: "16:00",
+        endTime: "16:20",
+        sessionIds: [307]
+    }
+    - {
+        parallel: 1,
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [127,108,113]
+    }
+    - {
+        parallel: 1,
+        startTime: "17:10",
+        endTime: "17:40",
+        sessionIds: [107,121,124]
+    }
+    - {
+        parallel: 1,
+        startTime: "17:50",
+        endTime: "18:20",
+        sessionIds: [101,130,117]
+    }
+    - {
+        parallel: 1,
+        startTime: "18:30",
+        endTime: "19:00",
+        sessionIds: [303]
+    }
+    - {
+        parallel: 1,
+    	startTime: "19:10",
+    	endTime: "21:00",
+    	sessionIds: [408]
+    }
